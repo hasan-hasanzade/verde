@@ -37,7 +37,7 @@ var swiper = new Swiper(".mySwiper", {
   
   });
 
-  const contentBar = document.querySelector('.menu__list');
+const contentBar = document.querySelector('.menu__list');
 const dropdown = document.querySelector('.dropdown-content');
 const more = document.querySelector('div.grouped-link');
 let selected = '';
