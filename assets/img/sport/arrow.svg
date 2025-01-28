@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+<g clip-path="url(#clip0_27624_65839)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 0C1.79086 0 0 1.79086 0 4V16C0 18.2091 1.79086 20 4 20H16C18.2091 20 20 18.2091 20 16V4C20 1.79086 18.2091 0 16 0H4ZM12.6805 6.2685C12.3876 5.97561 11.9127 5.97561 11.6198 6.2685C11.3269 6.56139 11.3269 7.03626 11.6198 7.32916L13.5389 9.24829H4.65015C4.23593 9.24829 3.90015 9.58408 3.90015 9.99829C3.90015 10.4125 4.23593 10.7483 4.65015 10.7483H13.54L11.6198 12.6685C11.3269 12.9614 11.3269 13.4363 11.6198 13.7292C11.9127 14.0221 12.3876 14.0221 12.6805 13.7292L15.8805 10.5292C16.1734 10.2363 16.1734 9.76139 15.8805 9.4685L12.6805 6.2685Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_27624_65839">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+<div xmlns="" id="divScriptsUsed" style="display: none"/><script xmlns="" id="globalVarsDetection" src="chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js"/></svg>
